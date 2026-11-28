@@ -1,2 +1,2 @@
 # textlab-hackathon
-Plataforma web para clasificación supervisada de textos con ML.
+https://textlab-hackathon-2qpd9lyspwo4kcrf5zrhft.streamlit.app
